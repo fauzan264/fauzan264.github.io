@@ -1,0 +1,75 @@
+@media (max-width: 1000px) {
+
+}
+
+
+@media (max-width: 670px) {
+
+    .img-ic {
+        margin: 5% auto;
+        width: 25%;
+        
+    }
+
+    .nav-menu {
+        opacity: 0;
+        overflow: hidden;
+    }
+
+    .menu-icon {
+        display: block !important;
+        cursor: pointer;
+    }
+
+    .show-menu {
+        width: 100%;
+        background-color: orangered;
+        display: inline-block !important;
+        margin: 0 auto;
+        transition: opacity .3s !important;
+        opacity: .9;
+        text-align: center;
+        z-index: 1;
+    }
+
+    .show-menu a {
+        display: block;
+        float: none;
+    }
+
+    .show-menu a:hover {
+        opacity: .5 !important;
+        background-color: white !important;
+        color: black;
+        transition: ease-in-out .5s;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .col {
+        margin: 5% auto;
+    }
+
+    .card {
+        padding: 5%;
+    }
+
+    #profil-title {
+        width: 50%;
+    }
+    
+    .profile h2 {
+        text-align: center;
+    }
+
+    .contact {
+        text-align: center;
+    }
+
+    .skill img {
+        width: 10%;
+    }
+
+}

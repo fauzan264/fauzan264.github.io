@@ -1,0 +1,329 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2, h3, h4, h5, p {
+    padding: 0 1%;
+}
+
+h2 {
+    color: #212121;
+    font-size: 1.7em;
+}
+
+h3 {
+    color: #616161;
+    font-size: 1.5em;
+    line-height: normal;
+}
+
+h4 {
+    color: #616161;
+    font-size: 1.2em;
+    line-height: normal;
+}
+
+h5 {
+    color: #616161;
+    font-size: 1.2em;
+    font-weight: normal;
+    line-height: normal;
+}
+
+p {
+    color: #757575;
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.heading {
+    text-align: center;
+}
+
+.icon-sec {
+    font-size: 36px;
+    display: block !important;
+    text-align: center;
+}
+
+.img-ic {
+    display: block;
+    width: 10%;
+    margin: 0 0 2% 2%;
+}
+
+.active {
+    background-color: orangered;
+    border-radius: 5%;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+nav {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(230, 74, 25, 0.8);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.nav-logo {
+    float: left;
+}
+
+.nav-logo img {
+    width: 40px;
+    margin: 25% 0;
+    border-radius: 50%;
+}
+
+.nav-menu {
+    float: right;
+}
+
+.nav-menu a {
+    line-height: 65px;
+    padding: 0 20px;
+    color: white;
+    float: left;
+    transition: all .8s;
+}
+
+.nav-menu a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none !important;
+}
+
+.wrapper {
+    padding: 10% 0;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+.row-li {
+    display: flex;
+    flex-direction: column;
+}
+
+.col {
+    flex: auto;
+    width: 100%;
+}
+
+.card {
+    background-color: #eceff1;
+    border-radius: 2%;
+    padding: 2%;
+    margin: 2%;
+}
+
+.card-link {
+    margin-bottom: 0;
+    padding: 3%; 
+    background-color: orangered; 
+    color:white; 
+    border-radius: 10%; 
+    float:right;
+}
+
+.card-link:hover {
+    opacity: .5;
+    transition: all .9s;
+}
+
+.card-list {
+    background-color: #eceff1;
+    border-radius: 2%;
+    padding: 2%;
+    margin: 2% 0;
+}
+
+.card-shadow-pumpkin {
+    box-shadow: 0 4px 8px 0 #d35400;
+}
+
+.card-shadow-carrot {
+    box-shadow: 0 4px 8px 0 #e67e22;
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    border-radius: 2%;
+}
+
+.card img:hover {
+    opacity: .8;
+    transition: all .8s;
+}
+
+.card-caption {
+    padding: 2% 0;
+    height: 15em;
+}
+
+main {
+    margin-top: 65px;
+}
+
+.about-img {
+    width: 50%;
+    border-radius: 50%;
+    margin: 5% 25%;
+}
+
+
+#profil-title {
+    max-width: 1170px;
+    display: block;
+    margin: 0 auto 5% auto;
+    width: 25%;
+    height:100px; 
+    text-align: center;
+}
+
+@-webkit-keyframes swinging{
+
+    0%{-webkit-transform: rotate(10deg);}
+
+    50%{-webkit-transform: rotate(-5deg);}
+
+    100%{-webkit-transform: rotate(10deg);}
+
+}
+
+@-moz-keyframes swinging{
+
+    0%{-webkit-transform: rotate(10deg);}
+
+    50%{-webkit-transform: rotate(-5deg);}
+
+    100%{-webkit-transform: rotate(10deg);}
+
+}
+
+
+
+@-o-keyframes swinging{
+
+    0%{-webkit-transform: rotate(10deg);}
+
+    50%{-webkit-transform: rotate(-5deg);}
+
+    100%{-webkit-transform: rotate(10deg);}
+
+}
+
+
+
+@keyframes swinging{
+
+    0%{transform: rotate(10deg);}
+
+    50%{transform: rotate(-5deg);}
+
+    100%{transform: rotate(10deg);}
+
+}
+
+
+
+.swingimage{
+
+    -webkit-transform-origin: 50% 0;
+
+    -moz-transform-origin: 50% 0;
+
+    -o-transform-origin: 50% 0;
+
+    transform-origin: 50% 0;
+
+    -webkit-animation: swinging 1s ease forwards infinite;
+
+    animation: swinging 1s ease forwards infinite;
+
+}
+
+.profile {
+    margin: 5% 0;
+}
+
+.parallax {
+    display: block;
+    margin: 0 auto;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10% 0;
+    text-align: center;
+    opacity: .9;
+    box-shadow: 0 2px 4px 1px grey;
+}
+
+.parallax-bg-1 {
+    background-image: url("../img/bg1.jpg");
+}
+
+.parallax-bg-2 {
+    background-image: url("../img/bg2.jpg");
+}
+
+.contact a {
+    font-size: 42px;
+    color: orangered;
+    margin: 0 1%;
+}
+
+.contact a:hover {
+    opacity: .7;
+}
+
+
+
+#education {
+    background-color: #ffe0b2;
+}
+
+#portfolios {
+    background-color: #eceff1;
+}
+
+.skill {
+    padding: 5% 0;
+}
+
+.skill img {
+    max-width: 1000px;
+    width: 5%;
+    margin-right: 1%;
+}
