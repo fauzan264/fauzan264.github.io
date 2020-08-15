@@ -67,6 +67,7 @@ p {
     margin: 0 0 2% 2%;
 }
 
+
 .active {
     background-color: orangered;
     border-radius: 5%;
@@ -146,6 +147,7 @@ nav {
     border-radius: 2%;
     padding: 2%;
     margin: 2%;
+    width: 100%;
 }
 
 .card-link {
