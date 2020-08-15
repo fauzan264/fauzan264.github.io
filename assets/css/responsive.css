@@ -11,6 +11,10 @@
         
     }
 
+    .font-ic {
+        text-align: center;
+    }
+
     .nav-menu {
         opacity: 0;
         overflow: hidden;
