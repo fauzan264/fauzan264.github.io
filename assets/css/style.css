@@ -67,12 +67,6 @@ p {
     margin: 0 0 2% 2%;
 }
 
-.font-ic {
-    display: block;
-    font-size: 4.5em;
-    margin: 0 0 2% 2%;
-}
-
 .active {
     background-color: orangered;
     border-radius: 5%;
