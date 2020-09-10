@@ -329,3 +329,11 @@ main {
     width: 5%;
     margin-right: 1%;
 }
+
+.btn-sertifikat {
+    margin-left: 1%; padding: 1% 2%; background-color: orangered; border-radius: 5%; color: white;
+}
+
+.btn-sertifikat:hover {
+    opacity: .5;
+}
