@@ -12,3 +12,6 @@ menuButton.forEach((menu) => {
         menuNav();
     });
 });
+
+
+AOS.init();
