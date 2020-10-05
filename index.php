@@ -77,7 +77,7 @@
                 <i class="fas fa-briefcase animate__animated animate__jackInTheBox animate__infinite infinite icon-sec"></i>
                 <h2 class="heading">Pengalaman</h2>
                 <div class="row-li">
-                    <!-- <div data-aos="fade-up" data-aos-anchor-placement="top-center" data-aos-duration="800">
+                    <div data-aos="fade-up" data-aos-anchor-placement="top-center" data-aos-duration="800">
                         <div class="col card-list card-shadow-pumpkin">
                             <i class="far fa-building font-ic" style="display: block; font-size: 4.5em; margin: 0 0 2% 2%;"></i>
                             <h3>Software Engineer</h3>
@@ -85,7 +85,7 @@
                             <h4>Artavac</h4>
                             <h5><i>Agustus 2020 - Sekarang</i></h5>
                         </div>
-                    </div> -->
+                    </div>
                     <div data-aos="fade-up" data-aos-anchor-placement="top-center" data-aos-duration="800">
                         <div class="col card-list card-shadow-pumpkin">
                             <i class="far fa-building font-ic" style="display: block; font-size: 4.5em; margin: 0 0 2% 2%;"></i>
@@ -235,6 +235,47 @@
         </section>
 
         <div class="parallax parallax-bg-2"></div>
+
+        <section id="portfolios" class="wrapper">
+            <div class="container">
+                <i class="fas fa-code animate__animated animate__pulse animate__infinite infinite icon-sec"></i>
+                <h2 class="heading">Sosial Media</h2>
+                <div class="row">
+                    <div class="col">
+                        <div class="row">
+                            <div class="col">
+                                <img src="assets/img/saya.jpg" width="100" alt="">
+                            </div>
+                            <div class="col">
+                                <h3>@ah.fauzann_</h3>
+                                <p>500 Followers</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col card card-shadow-carrot"> -->
+                        <!-- <img src="assets/img/mari-tualang.jpg" alt="apsi"> -->
+                        <!-- <div class="card-caption"> -->
+                            <!-- <h3>Maritualang</h3> -->
+                            <!-- <p>Ini merupakan website tugas akhir saya, website ini berisi sistem informasi mengenai kesenian, budaya, makanan, dan tempat wisata di Jawa Barat.</p> -->
+                        <!-- </div> -->
+                        <!-- <a class="card-link" href="http://mari-tualang.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lihat</a> -->
+                    <!-- </div> -->
+                    <div class="col card card-shadow-carrot">
+                        <img src="assets/img/apsi.png" alt="apsi">
+                        <div class="card-caption">
+                            <h3>APSI</h3>
+                            <p>Sebuah website yang berisi sistem informasi, penjualan, dan perhitungan stok barang. Ini merupakan project saya saat bekerja di PT. Teknologi Pundi Kreatif dengan tim.</p>
+                        </div>
+                        <a class="card-link" href="https://asosiasisampah.co.id/" target="_blank" rel="noopener noreferrer">Lihat</a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <section id="awards" class="wrapper">
             <div class="container">
