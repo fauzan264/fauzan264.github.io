@@ -221,14 +221,15 @@
                         </div>
                         <a class="card-link" href="http://bkk-karyaguna1bekasi.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lihat</a>
                     </div>
-                    <div class="col card card-shadow-carrot">
+                    <!-- <div class="col card card-shadow-carrot">
                         <img src="assets/img/pusaka-riau-page.PNG" alt="Pusaka Riau">
                         <div class="card-caption">
                             <h3>Pusaka Riau</h3>
                             <p>Sebuah sistem informasi hukum daerah yang ada di provinsi Riau</p>
                         </div>
                         <a class="card-link" href="https://riau.hukumdaerah.id/" target="_blank" rel="noopener noreferrer">Lihat</a>
-                    </div>
+                    </div> -->
+                    <div class="col"></div>
                     <div class="col"></div>
                 </div>
             </div>
