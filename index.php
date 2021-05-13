@@ -132,7 +132,7 @@
                             <h3>Sarjana Komputer</h3>
                         
                             <h4>Fakultas Ilmu Komputer - Teknik Informatika</h4>
-                            <h5>Judul Skripsi: <a href="#">Rancang Bangun Aplikasi Pengenalan Kesenian dan Budaya di Jawa Barat berbasis Web</a></h5>
+                            <h5>Judul Skripsi: <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=yvSLvdcAAAAJ&gmla=AJsN-F65fSiVHMT8_uy3_XnnV2iXizO1PotTrWe-ISIACFF-PybXgZHMXHSI-dns0zyz_2wArHqmc5WK8SUwpUBZxRFtNycWyOzSXv-xhzqA3cTF6dDQiLy1Be1SNm4WR-08yCiHBUQx">Rancang Bangun Aplikasi Pengenalan Kesenian dan Budaya di Jawa Barat berbasis Web</a></h5>
                             <h5><i>September 2014 - Februari 2019</i></h5>
                             <h5>IPK: 3.42 dari 4.00</h5>
                         </div>
