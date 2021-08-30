@@ -193,7 +193,7 @@
                             <h3>Maritualang</h3>
                             <p>Ini merupakan website tugas akhir saya, website ini berisi sistem informasi mengenai kesenian, budaya, makanan, dan tempat wisata di Jawa Barat.</p>
                         </div>
-                        <a class="card-link" href="http://mari-tualang.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lihat</a>
+                        <a class="card-link" href="http://mari-tualang.000webhostapp.com" target="_blank" rel="noopener noreferrer">Lihat</a>
                     </div>
                     <div class="col card card-shadow-carrot">
                         <img src="assets/img/apsi.png" alt="apsi">
@@ -201,7 +201,7 @@
                             <h3>APSI</h3>
                             <p>Sebuah website yang berisi sistem informasi, penjualan, dan perhitungan stok barang. Ini merupakan project saya saat bekerja di PT. Teknologi Pundi Kreatif dengan tim.</p>
                         </div>
-                        <a class="card-link" href="https://asosiasisampah.co.id/" target="_blank" rel="noopener noreferrer">Lihat</a>
+                        <a class="card-link" href="https://asosiasisampah.co.id" target="_blank" rel="noopener noreferrer">Lihat</a>
                     </div>
                     <div class="col card card-shadow-carrot">
                         <img src="assets/img/westjavafood.jpg" alt="west java food">
@@ -219,16 +219,16 @@
                             <h3>BKK Sekolah</h3>
                             <p>Sebuah website yang berisi sistem informasi dan transaksi sederhana dalam pendaftaran BKK.</p>
                         </div>
-                        <a class="card-link" href="http://bkk-karyaguna1bekasi.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Lihat</a>
+                        <a class="card-link" href="http://bkk-karyaguna1bekasi.000webhostapp.com" target="_blank" rel="noopener noreferrer">Lihat</a>
                     </div>
-                    <!-- <div class="col card card-shadow-carrot">
+                    <div class="col card card-shadow-carrot">
                         <img src="assets/img/pusaka-riau-page.PNG" alt="Pusaka Riau">
                         <div class="card-caption">
                             <h3>Pusaka Riau</h3>
                             <p>Sebuah sistem informasi hukum daerah yang ada di provinsi Riau</p>
                         </div>
-                        <a class="card-link" href="https://riau.hukumdaerah.id/" target="_blank" rel="noopener noreferrer">Lihat</a>
-                    </div> -->
+                        <a class="card-link" href="https://riau.hukumdaerah.id" target="_blank" rel="noopener noreferrer">Lihat</a>
+                    </div>
                     <div class="col"></div>
                     <div class="col"></div>
                 </div>
