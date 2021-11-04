@@ -1,0 +1,21 @@
+[
+    {
+        "image"     : "https://pendaftaran.mercubuana.ac.id/assets/images/logo_new.png",
+        "education" : "Universitas Mercu Buana",
+        "degree"    : "S1",
+        "major"     : "Teknik Informatika",
+        "period"    : "September 2014 - Februari 2019",
+        "thesis"    : {
+            "name"      : "Rancang Bangun Aplikasi Pengenalan Kesenian dan Budaya di Jawa Barat berbasis Web",
+            "url"       : "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yvSLvdcAAAAJ&citation_for_view=yvSLvdcAAAAJ:kuK5TVdYjLIC"
+        }
+    },
+    {
+        "image"     : "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_SMK_Binakarya_Mandiri_2_bekasi.png",
+        "education" : "SMK Binakarya Mandiri 2 Kota Bekasi",
+        "degree"    : "SMK",
+        "major"     : "Teknik Komputer & Jaringan",
+        "period"    : "Juli 2011 - Juli 2014",
+        "thesis"    : ""
+    }
+]
