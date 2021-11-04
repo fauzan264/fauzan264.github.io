@@ -60,7 +60,7 @@
         "publisher"         : "Dicoding",
         "certification"     : "Memulai Pemrograman Dengan Kotlin",
         "description"       : "Pelatihan tentang bahasa pemrograman kotlin. Pelatihan ini saya dapatkan dari beasiswa Lintasarta DigiSchool Scholarships.",
-        "period"            : "Maret 2020 - April 2020",
+        "period"            : "April 2020",
         "url"               : "https://www.dicoding.com/certificates/RVZK41MYNPD5"
     },
     {
@@ -68,7 +68,7 @@
         "publisher"         : "Dicoding",
         "certification"     : "Membuat Aplikasi Android untuk Pemula",
         "description"       : "Pelatihan tentang pengenalan dan pembuatan aplikasi android dasar dengan menggunakan bahasa pemrograman Java atau Kotlin. Pelatihan ini saya dapatkan dari beasiswa Indosat Ooredoo Digital Camp (IDCamp) 2020.",
-        "period"            : "Februari 2020 - Maret 2020",
+        "period"            : "Maret 2020",
         "url"               : "https://www.dicoding.com/certificates/JLX113K66X72"
     },
     {
@@ -76,6 +76,7 @@
         "publisher"         : "Dicoding",
         "certification"     : "Dasar Pemrograman Web",
         "description"       : "Pelatihan tentang pengenalan dan dasar-dasar pembuatan desain website dengan menggunakan HTML, CSS, dan JavaScript. Pelatihan ini saya dapatkan dari beasiswa Indosat Ooredoo Digital Camp (IDCamp) 2019.",
+        "period"            : "Agustus 2022",
         "url"               : "https://www.dicoding.com/certificates/4EXGY6JDEXRL"
     }
 ]
