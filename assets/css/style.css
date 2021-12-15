@@ -6,7 +6,8 @@ body {
 }
 
 nav {
-    background-color: rgba(244, 81, 30, 0.8) !important;
+    background-color: #f9844d;
+    background-image: linear-gradient(225deg, #f9844d 0%, #f5c557 100%);                                             
 }
 
 .parallax-container {
