@@ -5,10 +5,10 @@ body {
   overflow-x: hidden !important;
 }
 
-nav {
+/* nav {
     background-color: #f9844d;
     background-image: linear-gradient(225deg, #f9844d 0%, #f5c557 100%);                                             
-}
+} */
 
 .parallax-container {
     height: 250px !important;
@@ -82,4 +82,48 @@ nav {
     transform-origin: 50% 0 !important;
     -webkit-animation: swinging 1s ease forwards infinite !important;
     animation: swinging 1s ease forwards infinite !important;
+}
+
+.bg-primary {
+    background-color: #8B0000 !important;
+}
+
+.bg-secondary {
+    background-color: #E1E2E1 !important;
+}
+
+.bg-light {
+    background-color: #F5F5F6 !important;
+}
+
+.bg-red-dark {
+    background-color: #580000 !important;
+}
+
+.bg-red-light {
+    background-color: #C2402A !important;
+}
+
+blockquote {
+    border-left-color: #C2402A !important;
+}
+
+.text-primary {
+    color: #580000 !important;
+}
+
+.text-secondary {
+    color: #F5F5F6 !important;
+}
+
+.text-red-light {
+    color: #C2402A !important;
+}
+
+a:hover {
+    opacity: .8 !important;
+}
+
+.footer-copyright {
+    padding: 1% 0 !important;
 }

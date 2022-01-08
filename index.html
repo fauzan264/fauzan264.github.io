@@ -21,7 +21,7 @@
 
     <body>
         <div class="navbar-fixed">
-            <nav>
+            <nav class="bg-primary">
                 <div class="nav-wrapper navbar-fixed">
                     <div class="container">
                         <a href="#" class="brand-logo">
@@ -42,7 +42,7 @@
         </div>
 
         <!-- sidenav mobile -->
-        <ul class="sidenav" id="mobile">
+        <ul class="sidenav bg-secondary" id="mobile">
             <li>
                 <div class="user-view">
                     <div class="background">
@@ -61,7 +61,7 @@
             <li><a href="#awards">Penghargaan</a></li>
         </ul>
         
-        <section id="about" class="section scrollspy">
+        <section id="about" class="section scrollspy bg-secondary">
             <div class="container">
                 <div class="container">
                     <div class="row center">
@@ -72,7 +72,7 @@
                 </div>
                 <div class="row">
                     <div class="col s12 m6 center">
-                        <img src="assets/images/saya.jpg" alt="Foto saya" class="circle responsive-img z-depth-5" width="250" height="250" style="margin: 50px 0;">
+                        <img src="assets/images/saya.jpg" alt="Foto saya" class="circle responsive-img z-depth-5" width="250" height="250" style="margin: 20px 0;">
                     </div>
                     <div class="col s12 m6">
                         <h4>Ahmad Fauzan</h4>
@@ -95,17 +95,18 @@
         <section id="experiences" class="section scrollspy">
             <div class="container">
                 <div class="row">
-                    <span class="material-icons animate__animated animate__jackInTheBox animate__infinite infinite center" style="display: block; font-size: 36px">work_outline</span>
-                    <h4 class="center">Pengalaman</h4>
+                    <span class="material-icons animate__animated animate__jackInTheBox animate__infinite infinite center text-primary" style="display: block; font-size: 36px">work_outline</span>
+                    <h4 class="center text-primary">Pengalaman</h4>
                     <div id="experience"></div>
                 </div>
             </div>
         </section>
-        <section id="educations" class="section scrollspy grey lighten-3">
+
+        <section id="educations" class="section scrollspy grey lighten-3 bg-secondary">
             <div class="container">
                 <div class="row">
-                    <span class="material-icons animate__animated animate__heartBeat animate__infinite infinite center" style="display: block; font-size: 36px">school</span>
-                    <h4 class="center">Pendidikan</h4>
+                    <span class="material-icons animate__animated animate__heartBeat animate__infinite infinite center text-primary" style="display: block; font-size: 36px">school</span>
+                    <h4 class="center text-primary">Pendidikan</h4>
                     <div id="education"></div>
                 </div>
             </div>
@@ -116,8 +117,8 @@
         <section id="portfolios" class="section scrollspy">
             <div class="container">
                 <div class="row">
-                    <span class="material-icons animate__animated animate__pulse animate__infinite infinite center" style="display: block; font-size: 36px">source</span>
-                    <h4 class="center">Portfolio</h4>
+                    <span class="material-icons animate__animated animate__pulse animate__infinite infinite center text-primary" style="display: block; font-size: 36px">source</span>
+                    <h4 class="center text-primary">Portfolio</h4>
                     <div id="portfolio"></div>
                 </div>
             </div>
@@ -125,18 +126,18 @@
         <div class="parallax-container">
             <div class="parallax"><img src="assets/images/parallax2.jpg"></div>
         </div>
-        <section id="awards" class="section scrollspy orange lighten-4">
+        <section id="awards" class="section scrollspy bg-secondary">
             <div class="container">
                 <div class="row">
-                    <span class="material-icons animate__animated animate__swing animate__infinite infinite center" style="display: block; font-size: 36px">military_tech</span>
-                    <h4 class="center">Penghargaan & Sertifikat</h4>
+                    <span class="material-icons animate__animated animate__swing animate__infinite infinite center text-primary" style="display: block; font-size: 36px">military_tech</span>
+                    <h4 class="center text-primary">Penghargaan & Sertifikat</h4>
                     <div id="award"></div>
                 </div>
             </div>
         </section>
 
         <div class="fixed-action-btn">
-            <a class="btn-floating btn-large deep-orange darken-2">
+            <a class="btn-floating btn-large bg-primary">
                 <i class="large material-icons">contacts</i>
             </a>
             <ul>
@@ -145,6 +146,14 @@
                 <li><a href="https://t.me/fauzan264" class="btn-floating deep-orange tooltipped" data-position="left" data-tooltip="Telegram" target="_blank" rel="noopener noreferrer"><i class="material-icons">phone_enabled</i></a></li>
             </ul>
         </div>
+
+        <footer>
+            <div class="footer-copyright bg-red-light">
+                <div class="container">
+                    <span class="text-secondary">&copy; 2022 copyright fauzan</span>
+                </div>
+            </div>
+        </footer>
 
         <!--JavaScript at end of body for optimized loading-->
         <script type="text/javascript" src="assets/js/materialize.min.js"></script>
