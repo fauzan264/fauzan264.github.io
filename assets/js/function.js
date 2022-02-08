@@ -38,7 +38,7 @@ let cardEducation = (image, education, degree, major, period, thesis) => {
 
 let cardPortfolio = (image, title, description, url) => {
 
-    return `<div class="col s12 m4">
+    return `<div class="col s12 m6 l4">
                 <div class="card sticky-action z-depth-3">
                     <div class="card-image waves-effect waves-block waves-light">
                         <img class="activator" src="${image}" alt="${title}" style="height: 200px"/>

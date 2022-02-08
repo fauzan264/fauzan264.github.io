@@ -1,5 +1,13 @@
 [
     {
+        "image"             : "https://buildwithangga.com/themes/front/images/logo_bwa_new.svg",
+        "publisher"         : "Build With Angga",
+        "certification"     : "Full-Stack JavaScript Developer",
+        "description"       : "MERN Stack adalah bagian dari Full-Stack Web Developer yang difokuskan kepada JavaScript (Full-Stack JavaScript Developer). M untuk MongoDB, E untuk ExpressJS, R untuk ReactJS, dan N untuk NodeJS.Tapi bukan hanya sekadar ngoding namun belajar dimulai dari bagian UI dan UX sehingga paham betul bagaimana caranya membangun suatu website yang memiliki better experience.",
+        "period"            : "On Progress",
+        "url"               : "#"
+    },
+    {
         "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
         "publisher"         : "Udemy",
         "certification"     : "Database MySQL Pemula sampai Mahir",
@@ -34,14 +42,6 @@
     {
         "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
         "publisher"         : "Dicoding",
-        "certification"     : "Belajar Fundamental Aplikasi Android",
-        "description"       : "Kelas ini merupakan kelas lanjutan dari Belajar Aplikasi Android untuk Pemula dan bagian dari learning path Android di Dicoding Academy. Mempelajari mengenai Fundamental dalam melakukan pengembangan aplikasi Android dengan materi kelas didesain untuk diselesaikan dalam waktu 150 jam.",
-        "period"            : "Januari 2021",
-        "url"               : "https://www.dicoding.com/certificates/EYX4R0LOWXDL"
-    },
-    {
-        "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
-        "publisher"         : "Dicoding",
         "certification"     : "Belajar Prinsip Pemrograman SOLID",
         "description"       : "Kelas dasar untuk memahami lima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada OOP. Dengan menerapkan prinsip ini, aplikasi menjadi lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. Mempelajari mengenai prinsip SOLID yang memiliki tujuan untuk membuat kode program lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. dengan materi kelas didesain untuk diselesaikan dalam waktu 15 jam.",
         "period"            : "Oktober 2020",
@@ -54,22 +54,6 @@
         "description"       : "Pelatihan yang terdiri dari HTML, CSS, JavaScript, React JS, dan Node JS. Pelatihan ini saya dapatkan dari Beasiswa pelatihan Digital Talent Scholarship Kementerian Komunikasi dan Informatika RI.",
         "period"            : "11 Mei 2020 - 31 Juli 2020",
         "url"               : "https://drive.google.com/file/d/1QOwPi0zjiHzaRCPOL_s9cxNhnbP-QTRJ/view?usp=sharing"
-    },
-    {
-        "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
-        "publisher"         : "Dicoding",
-        "certification"     : "Memulai Pemrograman Dengan Kotlin",
-        "description"       : "Pelatihan tentang bahasa pemrograman kotlin. Pelatihan ini saya dapatkan dari beasiswa Lintasarta DigiSchool Scholarships.",
-        "period"            : "April 2020",
-        "url"               : "https://www.dicoding.com/certificates/RVZK41MYNPD5"
-    },
-    {
-        "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
-        "publisher"         : "Dicoding",
-        "certification"     : "Membuat Aplikasi Android untuk Pemula",
-        "description"       : "Pelatihan tentang pengenalan dan pembuatan aplikasi android dasar dengan menggunakan bahasa pemrograman Java atau Kotlin. Pelatihan ini saya dapatkan dari beasiswa Indosat Ooredoo Digital Camp (IDCamp) 2020.",
-        "period"            : "Maret 2020",
-        "url"               : "https://www.dicoding.com/certificates/JLX113K66X72"
     },
     {
         "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
