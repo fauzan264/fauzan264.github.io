@@ -20,133 +20,166 @@
     </head>
 
     <body>
-        <div class="navbar-fixed">
-            <nav class="bg-primary">
-                <div class="nav-wrapper navbar-fixed">
-                    <div class="container">
-                        <a href="#" class="brand-logo">
-                            <img src="assets/images/logo.png" alt="Logo" width="30" height="30" class="circle responsive-img">
-                        </a>
-                        <a href="#" data-target="mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-                        <ul id="nav-mobile" class="right hide-on-med-and-down">
-                            <li><a href="#about">Profile</a></li>
-                            <li><a href="#experiences">Pengalaman</a></li>
-                            <!-- <li><a href="#educations">Pendidikan</a></li> -->
-                            <!-- <li><a href="#skills">Keahlian</a></li> -->
-                            <li><a href="#portfolios">Portfolio</a></li>
-                            <li><a href="#awards">Penghargaan</a></li>
-                        </ul>
+        <header>
+            <div class="navbar-fixed">
+                <nav class="bg-primary" style="box-shadow: none !important;">
+                    <div class="nav-wrapper navbar-fixed">
+                        <div class="container">
+                            <a href="#" class="brand-logo">
+                                <img src="assets/images/logo.png" alt="Logo" width="30" height="30" class="circle responsive-img">
+                            </a>
+                            <a href="#" data-target="mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                                <li><a href="#about">Profile</a></li>
+                                <li><a href="#experiences">Pengalaman</a></li>
+                                <!-- <li><a href="#educations">Pendidikan</a></li> -->
+                                <!-- <li><a href="#skills">Keahlian</a></li> -->
+                                <li><a href="#portfolios">Portfolio</a></li>
+                                <li><a href="#awards">Penghargaan</a></li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-            </nav>
-        </div>
-
-        <!-- sidenav mobile -->
-        <ul class="sidenav bg-secondary" id="mobile">
-            <li>
-                <div class="user-view">
-                    <div class="background">
-                        <img src="https://images.unsplash.com/photo-1625508133058-78bc39fbd228?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80">
+                </nav>
+            </div>
+            
+            <!-- sidenav mobile -->
+            <ul class="sidenav bg-secondary" id="mobile">
+                <li>
+                    <div class="user-view">
+                        <div class="background">
+                            <img src="https://images.unsplash.com/photo-1625508133058-78bc39fbd228?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80">
+                        </div>
+                        <a href="#user" class="z-depth-3"><img class="circle" src="assets/images/saya.jpg"></a>
+                        <a href="#name" class="z-depth-3"><span class="name">Ahmad Fauzan</span></a>
+                        <a href="#email" class="z-depth-3"><span class="email">fauzan.c4@gmail.com</span></a>
                     </div>
-                    <a href="#user" class="z-depth-3"><img class="circle" src="assets/images/saya.jpg"></a>
-                    <a href="#name" class="z-depth-3"><span class="name">Ahmad Fauzan</span></a>
-                    <a href="#email" class="z-depth-3"><span class="email">fauzan.c4@gmail.com</span></a>
-                </div>
-            </li>
-            <li><a href="#about">Profile</a></li>
-            <li><a href="#experiences">Pengalaman</a></li>
-            <!-- <li><a href="#educations">Pendidikan</a></li> -->
-            <!-- <li><a href="#skills">Keahlian</a></li> -->
-            <li><a href="#portfolios">Portfolio</a></li>
-            <li><a href="#awards">Penghargaan</a></li>
-        </ul>
+                </li>
+                <li><a href="#about">Profile</a></li>
+                <li><a href="#experiences">Pengalaman</a></li>
+                <!-- <li><a href="#educations">Pendidikan</a></li> -->
+                <!-- <li><a href="#skills">Keahlian</a></li> -->
+                <li><a href="#portfolios">Portfolio</a></li>
+                <li><a href="#awards">Penghargaan</a></li>
+            </ul>
+        </header>
         
-        <section id="about" class="section scrollspy bg-secondary">
-            <div class="container">
-                <div class="container">
+        <main>
+            <section class="bg-primary no-padding" min-width="320">
+                <div class="section container no-padding">
+                    <div class="section row center valign-wrapper no-padding" style="margin-bottom: 0 !important;">
+                        <div class="col s12 l5 text-secondary no-padding">
+                            <h4>AHMAD <span style="font-weight: bold;">FAUZAN</span></h4>
+                            <h5>Web developer</h5>
+                        </div>
+                        <div class="col s12 l7">
+                            <div class="valign-wrapper">
+                                <img src="assets/images/me2.png" alt="Foto saya" class="responsive-img center" width="480">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="grey lighten-1">
+                <div class="container section">
                     <div class="row center">
+                        <div class="col s4">
+                            <img src="assets/images/skills/ui.png" class="img-responsive" width="50" alt="UI">
+                        </div>
+                        <div class="col s4">
+                            <img src="assets/images/skills/ux.png" class="img-responsive" width="50" alt="UX">
+                        </div>
+                        <div class="col s4">
+                            <img src="assets/images/skills/web.png" class="img-responsive" width="50" alt="WEB">
+                        </div>
+                    </div>
+                </div>
+            </section>
+    
+            <section id="about" class="section scrollspy bg-secondary">
+                <div class="container section">
+                    <div class="row center section">
                         <div class="col s12 m12">
                             <img src="assets/images/profil.png" alt="Profile Welcome" class="swingimage" width="300">
                         </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col s12 m6 center">
-                        <img src="assets/images/saya.jpg" alt="Foto saya" class="circle responsive-img z-depth-5" width="250" height="250" style="margin: 20px 0;">
-                    </div>
-                    <div class="col s12 m6">
-                        <h4>Ahmad Fauzan</h4>
-                        <p>
-                            Saya seorang Junior Web developer, Saya lulusan S1 Teknik
-                            Informatika di Universitas Mercu Buana, Jakarta. Saya
-                            memiliki pengalaman bekerja sebagai junior web developer 5
-                            bulan dan pernah menangani beberapa project membuat website
-                            dengan menggunakan PHP Native dan Codeigniter Framework. Saya juga pernah belajar dan membuat aplikasi mobile khususnya Android
-                        </p>
+                    <div class="row section">
+                        <div class="col s12 section">
+                            <p class="flow-text justify">
+                                Saya seorang Junior Web developer, Saya lulusan S1 Teknik
+                                Informatika di Universitas Mercu Buana, Jakarta. Saya
+                                memiliki pengalaman bekerja sebagai junior web developer 5
+                                bulan dan pernah menangani beberapa project membuat website
+                                dengan menggunakan PHP Native dan Codeigniter Framework.
+                            </p>
+                        </div>
                     </div>
                 </div>
+            </section>
+    
+            <div class="parallax-container">
+                <div class="parallax"><img src="assets/images/parallax1.jpg"></div>
             </div>
-        </section>
-
-        <div class="parallax-container">
-            <div class="parallax"><img src="assets/images/parallax1.jpg"></div>
-        </div>
-
-        <section id="experiences" class="section scrollspy">
-            <div class="container">
-                <div class="row">
-                    <span class="material-icons animate__animated animate__jackInTheBox animate__infinite infinite center text-primary" style="display: block; font-size: 36px">work_outline</span>
-                    <h4 class="center text-primary">Pengalaman</h4>
-                    <div id="experience"></div>
+    
+            <section id="experiences" class="section scrollspy">
+                <div class="container">
+                    <div class="row">
+                        <span class="material-icons animate__animated animate__jackInTheBox animate__infinite infinite center text-primary" style="display: block; font-size: 36px">work_outline</span>
+                        <h4 class="center text-primary">Pengalaman</h4>
+                        <div id="experience"></div>
+                    </div>
                 </div>
-            </div>
-        </section>
+            </section>
 
-        <!-- <section id="educations" class="section scrollspy grey lighten-3 bg-secondary">
-            <div class="container">
-                <div class="row">
-                    <span class="material-icons animate__animated animate__heartBeat animate__infinite infinite center text-primary" style="display: block; font-size: 36px">school</span>
-                    <h4 class="center text-primary">Pendidikan</h4>
-                    <div id="education"></div>
+            <!-- <section id="educations" class="section scrollspy grey lighten-3 bg-secondary">
+                <div class="container">
+                    <div class="row">
+                        <span class="material-icons animate__animated animate__heartBeat animate__infinite infinite center text-primary" style="display: block; font-size: 36px">school</span>
+                        <h4 class="center text-primary">Pendidikan</h4>
+                        <div id="education"></div>
+                    </div>
                 </div>
-            </div>
-        </section> -->
-        <section id="skills" class="section scrollspy">
-            <div class="row"></div>
-        </section>
-        <section id="portfolios" class="section scrollspy">
-            <div class="container">
-                <div class="row">
-                    <span class="material-icons animate__animated animate__pulse animate__infinite infinite center text-primary" style="display: block; font-size: 36px">source</span>
-                    <h4 class="center text-primary">Portfolio</h4>
-                    <div id="portfolio"></div>
-                </div>
-            </div>
-        </section>
-        <div class="parallax-container">
-            <div class="parallax"><img src="assets/images/parallax2.jpg"></div>
-        </div>
-        <section id="awards" class="section scrollspy bg-secondary">
-            <div class="container">
-                <div class="row">
-                    <span class="material-icons animate__animated animate__swing animate__infinite infinite center text-primary" style="display: block; font-size: 36px">military_tech</span>
-                    <h4 class="center text-primary">Penghargaan & Sertifikat</h4>
-                    <div id="award"></div>
-                </div>
-            </div>
-        </section>
+            </section> -->
 
-        <div class="fixed-action-btn">
-            <a class="btn-floating btn-large bg-primary">
-                <i class="large material-icons">contacts</i>
-            </a>
-            <ul>
-                <li><a href="https://github.com/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Github" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/github.png" class="center-align" alt="Github" style="width: 1.4rem; vertical-align: middle;" /></a></li>
-                <li><a href="https://www.linkedin.com/in/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/linkedin.png" class="center-align" alt="Linkedin" style="width: 1.4rem; vertical-align: middle;" /></a></li>
-                <li><a href="https://t.me/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Telegram" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/telegram.png" class="center-align" alt="Telegram" style="width: 1.4rem; vertical-align: middle;" /></a></li>
-                <li><a href="https://www.instagram.com/fauzan.space" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Instagram" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/instagram.png" class="center-align" alt="Instagram" style="width: 1.4rem; vertical-align: middle;" /></a></li>
-            </ul>
-        </div>
+            <section id="skills" class="section scrollspy">
+                <div class="row"></div>
+            </section>
+
+            <section id="portfolios" class="section scrollspy">
+                <div class="container">
+                    <div class="row">
+                        <span class="material-icons animate__animated animate__pulse animate__infinite infinite center text-primary" style="display: block; font-size: 36px">source</span>
+                        <h4 class="center text-primary">Portfolio</h4>
+                        <div id="portfolio"></div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="parallax-container">
+                <div class="parallax"><img src="assets/images/parallax2.jpg"></div>
+            </div>
+            
+            <section id="awards" class="section scrollspy bg-secondary">
+                <div class="container">
+                    <div class="row">
+                        <span class="material-icons animate__animated animate__swing animate__infinite infinite center text-primary" style="display: block; font-size: 36px">military_tech</span>
+                        <h4 class="center text-primary">Penghargaan & Sertifikat</h4>
+                        <div id="award"></div>
+                    </div>
+                </div>
+            </section>
+    
+            <div class="fixed-action-btn">
+                <a class="btn-floating btn-large bg-primary">
+                    <i class="large material-icons">contacts</i>
+                </a>
+                <ul>
+                    <li><a href="https://github.com/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Github" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/github.png" class="center-align" alt="Github" style="width: 1.4rem; vertical-align: middle;" /></a></li>
+                    <li><a href="https://www.linkedin.com/in/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/linkedin.png" class="center-align" alt="Linkedin" style="width: 1.4rem; vertical-align: middle;" /></a></li>
+                    <li><a href="https://t.me/fauzan264" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Telegram" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/telegram.png" class="center-align" alt="Telegram" style="width: 1.4rem; vertical-align: middle;" /></a></li>
+                    <li><a href="https://www.instagram.com/fauzan.space" class="btn-floating bg-red-light tooltipped" data-position="left" data-tooltip="Instagram" target="_blank" rel="noopener noreferrer"><img src="./assets/images/icons/instagram.png" class="center-align" alt="Instagram" style="width: 1.4rem; vertical-align: middle;" /></a></li>
+                </ul>
+            </div>
+        </main>
 
         <footer>
             <div class="footer-copyright bg-red-light">
