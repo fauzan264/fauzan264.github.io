@@ -34,14 +34,6 @@
     {
         "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
         "publisher"         : "Dicoding",
-        "certification"     : "Belajar Android Jetpack Pro",
-        "description"       : "Kelas ini merupakan kelas lanjutan dari Belajar Fundamental Aplikasi Android dan bagian dari     learning path Android di Dicoding Academy. Mempelajari mengenai Android Jetpack dengan materi kelas didesain untuk diselesaikan dalam waktu 70 jam.",
-        "period"            : "Juli 2021",
-        "url"               : "https://www.dicoding.com/certificates/2VX32WW1VPYQ"
-    },
-    {
-        "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
-        "publisher"         : "Dicoding",
         "certification"     : "Belajar Prinsip Pemrograman SOLID",
         "description"       : "Kelas dasar untuk memahami lima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada OOP. Dengan menerapkan prinsip ini, aplikasi menjadi lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. Mempelajari mengenai prinsip SOLID yang memiliki tujuan untuk membuat kode program lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. dengan materi kelas didesain untuk diselesaikan dalam waktu 15 jam.",
         "period"            : "Oktober 2020",
