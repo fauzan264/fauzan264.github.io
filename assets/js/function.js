@@ -47,7 +47,7 @@ let cardPortfolio = (image, title, description, url) => {
                         <span class="card-title activator text-primary">${title}<i class="material-icons right">more_vert</i></span>
                     </div>
                     <div class="card-action">
-                        <a href="${url}" class="waves-effect waves-light btn-small bg-primary"><i class="material-icons right">send</i>Detail</a>
+                        <a href="${url}" class="waves-effect waves-light btn-small bg-primary" target="_blank" rel="noopener noreferrer"><i class="material-icons right">send</i>Detail</a>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">${title}<i class="material-icons right">close</i></span>
