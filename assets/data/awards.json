@@ -1,9 +1,9 @@
 [
     {
-        "image"             : "https://buildwithangga.com/themes/front/images/logo_bwa_new.svg",
-        "publisher"         : "Build With Angga",
-        "certification"     : "Full-Stack JavaScript Developer",
-        "description"       : "MERN Stack adalah bagian dari Full-Stack Web Developer yang difokuskan kepada JavaScript (Full-Stack JavaScript Developer). M untuk MongoDB, E untuk ExpressJS, R untuk ReactJS, dan N untuk NodeJS.Tapi bukan hanya sekadar ngoding namun belajar dimulai dari bagian UI dan UX sehingga paham betul bagaimana caranya membangun suatu website yang memiliki better experience.",
+        "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
+        "publisher"         : "Udemy",
+        "certification"     : "Pemrograman Go-Lang : Pemula sampai Mahir",
+        "description"       : "Belajar pemrograman Go-Lang dari pemula sampai mahir disertai studi kasus.",
         "period"            : "On Progress",
         "url"               : "#"
     },
