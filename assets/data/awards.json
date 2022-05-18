@@ -1,5 +1,13 @@
 [
     {
+        "image"             : "https://buildwithangga.com/themes/front/images/logo_bwa_new.svg",
+        "publisher"         : "Build With Angga",
+        "certification"     : "Full-Stack Golang Vue NuxtJS: Website Crowdfunding",
+        "description"       : "Belajar membuat portfolio sebuah website Crowdfunding(mengumpulkan dana untuk Startup) dengan menggunakan Nuxt Js untuk front end nya dan Golang sebagai back end nya yang berupa Rest API",
+        "period"            : "On Progress",
+        "url"               : "#"
+    },
+    {
         "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
         "publisher"         : "Udemy",
         "certification"     : "Pemrograman Go-Lang : Pemula sampai Mahir",
