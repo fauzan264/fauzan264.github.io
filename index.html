@@ -191,7 +191,7 @@
                                 <div class="card horizontal z-depth-3 bg-light">
                                     <div class="card-stacked">
                                         <div class="card-content">
-                                            <img :src="${award.image}" :alt="${award.publisher}" style="width: 100px">
+                                            <img :src="award.image" :alt="award.publisher" style="width: 100px">
                                             <span x-text="`${award.publisher}: ${award.certification}`" class="card-title grey-text text-darken-4"></span>
                                             <p x-text="award.period"></p>
                                             <blockquote x-text="award.description"></blockquote>
