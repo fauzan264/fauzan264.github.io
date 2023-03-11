@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Fauzan - Portfolio</title>
+        <!--Let browser know website is optimized for mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <!--Import Google Icon Font-->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <!--Import materialize.css-->
-        <meta name="keywords" content="fauzan264, ahmad fauzan, portfolio" />
+        <meta name="keywords" content="fauzan264, ahmad fauzan mercu buana" />
         <meta name="description" content="Portfolio Ahmad Fauzan" />
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <link type="text/css" rel="stylesheet" href="assets/css/materialize.min.css"  media="screen,projection"/>
@@ -13,10 +16,12 @@
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
         />
-        <title>Fauzan - Portfolio</title>
-        
-        <!--Let browser know website is optimized for mobile-->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js"></script>
+        <style>
+            [x-cloak] {
+                display: none;
+            }
+        </style>
     </head>
 
     <body>
@@ -118,7 +123,25 @@
                 <div class="row">
                     <span class="material-icons animate__animated animate__jackInTheBox animate__infinite infinite center text-primary" style="display: block; font-size: 36px">work_outline</span>
                     <h4 class="center text-primary">Pengalaman</h4>
-                    <div id="experience"></div>
+                    <div x-data="dataExperiences()" x-init="getExperiences()">
+                        <template x-if="experiences">
+                            <template x-for="experience in experiences">
+                                <div class="col s12 m12">
+                                    <div class="card horizontal z-depth-3 bg-light">
+                                        <div class="card-stacked">
+                                            <div class="card-content">
+                                                <span class="material-icons text-primary" style="width: 100px" x-show="experience.image == ''">work</span>
+                                                <img :src="experience.image" :alt="`${experience.company} logo`" x-show="experience.image != ''" style="width: 100px">
+                                                
+                                                <span x-text="`${experience.company}: ${experience.position}`" class="card-title grey-text text-darken-4">${company}: ${position}</span>
+                                                <p x-text="experience.period"></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </template>
+                        </template>
+                    </div>
                 </div>
             </div>
         </section>
@@ -130,7 +153,27 @@
                 <div class="row">
                     <span class="material-icons animate__animated animate__pulse animate__infinite infinite center text-primary" style="display: block; font-size: 36px">source</span>
                     <h4 class="center text-primary">Portfolio</h4>
-                    <div id="portfolio"></div>
+                    <div x-data="dataPortfolios()" x-init="getPortfolios()">
+                        <template x-for="portfolio in portfolios">
+                            <div class="col s12 m6 l4">
+                                <div class="card sticky-action z-depth-3">
+                                    <div class="card-image waves-effect waves-block waves-light">
+                                        <img class="activator" :src="portfolio.image" :alt="portfolio.title" style="height: 200px"/>
+                                    </div>
+                                    <div class="card-content">
+                                        <span x-html="`${portfolio.title} <i class=\'material-icons right\'>more_vert</i>`" class="card-title activator text-primary"></span>
+                                    </div>
+                                    <div class="card-action">
+                                        <a :href="portfolio.url" class="waves-effect waves-light btn-small bg-primary" target="_blank" rel="noopener noreferrer"><i class="material-icons right">send</i>Detail</a>
+                                    </div>
+                                    <div class="card-reveal">
+                                        <span x-html="`${portfolio.title} <i class=\'material-icons right\'>close</i>`" class="card-title grey-text text-darken-4"></span>
+                                        <p x-text="portfolio.description"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
                 </div>
             </div>
         </section>
@@ -142,7 +185,25 @@
                 <div class="row">
                     <span class="material-icons animate__animated animate__swing animate__infinite infinite center text-primary" style="display: block; font-size: 36px">military_tech</span>
                     <h4 class="center text-primary">Penghargaan & Sertifikat</h4>
-                    <div id="award"></div>
+                    <div x-data="dataAwards()" x-init="getAwards()">
+                        <template x-for="award in awards">
+                            <div class="col s12 m12">
+                                <div class="card horizontal z-depth-3 bg-light">
+                                    <div class="card-stacked">
+                                        <div class="card-content">
+                                            <img :src="${award.image}" :alt="${award.publisher}" style="width: 100px">
+                                            <span x-text="`${award.publisher}: ${award.certification}`" class="card-title grey-text text-darken-4"></span>
+                                            <p x-text="award.period"></p>
+                                            <blockquote x-text="award.description"></blockquote>
+                                        </div>
+                                        <div class="card-action">
+                                            <a :href="award.url" x-show="award.url != ''" class="waves-effect waves-light btn-small right bg-primary" target="_blank" rel="noopener noreferrer"><i class="material-icons right">send</i>Sertifikat</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
                 </div>
             </div>
         </section>
@@ -162,7 +223,7 @@
         <footer>
             <div class="footer-copyright bg-red-light">
                 <div class="container">
-                    <span class="text-secondary">&copy; 2020 - 2022 <a href="https://fauzan264.netlify.app" class="text-secondary" style="font-weight: bold;">Fauzan</a> using <a href="https://materializecss.com" class="text-secondary">Materialize</a></span>
+                    <span x-data="footer()" x-html="getFooter()" class="text-secondary"></span>
                 </div>
             </div>
         </footer>
@@ -171,6 +232,5 @@
         <script type="text/javascript" src="assets/js/materialize.min.js"></script>
         <script src="assets/js/custom.js"></script>
         <script src="assets/js/function.js"></script>
-        <script src="assets/js/get_data.js"></script>
     </body>
 </html>
