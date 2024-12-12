@@ -1,6 +1,12 @@
 [
     {
         "image"     : "",
+        "company"   : "GoTo Logistics",
+        "position"  : "Tech Support",
+        "period"    : "Maret 2022 - Sekarang"
+    },
+    {
+        "image"     : "",
         "company"   : "Freelance",
         "position"  : "Programmer",
         "period"    : "Agustus 2021 - Sekarang"
