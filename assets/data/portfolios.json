@@ -2,25 +2,26 @@
     {
         "image"         : "assets/images/mari-tualang-web.jpg",
         "title"         : "Maritualang",
-        "description"   : "Ini merupakan website tugas akhir saya, website ini berisi sistem informasi mengenai kesenian, budaya, makanan, dan tempat wisata di Jawa Barat.",
+        "description"   : "This is the digital platform I created as part of my final project. The website features an information system that highlights the rich culture of West Java, including its arts, traditions, cuisine, and tourist attractions. As my final project, this website not only serves as a source of information but also demonstrates my skills in web design and development. Inside, you'll find an intuitive interface, easy navigation, and content that showcases the beauty and cultural wealth of West Java. Thank you for visiting, and I hope you find inspiration here!.",
         "url"           : "http://mari-tualang.000webhostapp.com"
     },
     {
         "image"         : "assets/images/apsi-web.png",
         "title"         : "APSI",
-        "description"   : "Sebuah website yang berisi sistem informasi, penjualan, dan perhitungan stok barang. Ini merupakan project saya saat bekerja di PT. Teknologi Pundi Kreatif dengan tim.",
+        "description"   : "This is a website that features an information system, sales, and inventory management for recycling business owners.
+It was developed as part of my project during my time at PT. Teknologi Pundi Kreatif. The website streamlines the management of stock, sales transactions, and inventory tracking, helping businesses in the recycling industry operate more efficiently. This project showcases our collaboration in creating a functional and user-friendly platform tailored to the needs of recycling entrepreneurs.",
         "url"           : "https://asosiasisampah.co.id"
     },
     {
         "image"         : "assets/images/westjavafood-android.jpg",
         "title"         : "WEST JAVA FOOD",
-        "description"   : "Sebuah sistem informasi berbasis aplikasi android yang berisi tentang makanan khas di Jawa Barat ini merupakan tugas akhir saya saat kursus membuat android dasar di DICODING ACADEMY.",
+        "description"   : "This is an Android-based information system featuring traditional dishes from West Java. It was developed as my final project during a basic Android development course at DICODING ACADEMY. The app provides users with detailed information about the rich culinary heritage of West Java, showcasing its unique and diverse traditional foods. This project demonstrates my ability to build a functional mobile application using Android development tools.",
         "url"           : "https://github.com/fauzan264/WestJavaFoods.git"
     },
     {
         "image"         : "assets/images/bkk-web.png",
         "title"         : "BKK Sekolah",
-        "description"   : "Sebuah website yang berisi sistem informasi dan transaksi sederhana dalam pendaftaran BKK. Yang baru-baru ini saya kembangkan lagi strukturnya.",
+        "description"   : "This is a website featuring an information system and simple transaction system for a job fair registration specifically for schools. I have recently revamped its structure to improve functionality and user experience. The platform allows students to register and participate in job fairs, streamlining the process for both organizers and participants. This project highlights my ability to enhance existing systems and implement improvements based on user needs.",
         "url"           : "http://bkk-karyaguna1bekasi.000webhostapp.com"
     },
     {
