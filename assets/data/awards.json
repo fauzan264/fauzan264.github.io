@@ -12,7 +12,7 @@
         "publisher"         : "Udemy",
         "certification"     : "Pemrograman Go-Lang : Pemula sampai Mahir",
         "description"       : "I learned Go-Lang programming from beginner to advanced level, accompanied by practical case studies. This learning process allowed me to understand the fundamentals of Go-Lang, including its syntax, data structures, and concurrency features, while applying the concepts in real-world scenarios. The hands-on experience through case studies helped me strengthen my problem-solving skills and deepen my understanding of Go-Lang for building efficient and scalable applications.",
-        "period"            : "04 Juni 2022",
+        "period"            : "June 04, 2022",
         "url"               : "https://www.udemy.com/certificate/UC-77689f12-1ea1-45a5-a49c-10d0425b4aae"
     },
     {
@@ -20,7 +20,7 @@
         "publisher"         : "Udemy",
         "certification"     : "Database MySQL Pemula sampai Mahir",
         "description"       : "I learned MySQL database from beginner to advanced level, accompanied by practical case studies. This learning journey helped me understand the fundamentals of relational databases, SQL queries, normalization, and advanced topics such as indexing, optimization, and complex joins. Through hands-on case studies, I applied these concepts to real-world scenarios, enhancing my ability to design and manage efficient, scalable databases.",
-        "period"            : "12 Oktober 2021",
+        "period"            : "October 12, 2021",
         "url"               : "https://www.udemy.com/certificate/UC-f00630b1-4bd8-4738-b13b-0e7ebfe8f3c5"
     },
     {
@@ -28,7 +28,7 @@
         "publisher"         : "Udemy",
         "certification"     : "Menguasai PostgreSQL",
         "description"       : "I am proficient in operating PostgreSQL and capable of applying SQL queries effectively. I have a solid understanding of database design, data manipulation, and advanced query techniques, ensuring optimal performance and accuracy in managing and retrieving data. My skills allow me to efficiently handle complex queries and ensure data integrity within PostgreSQL databases.",
-        "period"            : "28 April 2021",
+        "period"            : "April 28, 2021",
         "url"               : "https://www.udemy.com/certificate/UC-bafd8485-60b5-4f62-820b-5338979bc6bd"
     },
     {
@@ -36,7 +36,7 @@
         "publisher"         : "Build With Angga",
         "certification"     : "UX Design Gestalt",
         "description"       : "The Gestalt Principle is a psychological theory that explains how humans naturally perceive and organize visual objects. According to this theory, people tend to group elements together and perceive them as a whole, rather than as individual parts. This principle helps to understand how the human brain interprets visual stimuli, creating patterns and structures that make sense out of complex or fragmented information.",
-        "period"            : "25 Maret 2021",
+        "period"            : "March 25, 2021",
         "url"               : "https://buildwithangga.com/talent/fauzan264/uiux-design-gestalt-principle"
     },
     {
@@ -44,7 +44,7 @@
         "publisher"         : "Dicoding",
         "certification"     : "Belajar Prinsip Pemrograman SOLID",
         "description"       : "This is an introductory class designed to help you understand the five design principles that serve as guidelines for writing good code in Object-Oriented Programming (OOP). By applying these principles, applications become easier to understand, manage, and expand. The course focuses on the SOLID principles, which aim to make code more readable, maintainable, and scalable. The class content is structured to be completed in 15 hours, providing a comprehensive foundation for improving your coding practices.",
-        "period"            : "Oktober 2020",
+        "period"            : "October 2020",
         "url"               : "https://www.dicoding.com/certificates/GRX5GK0RRX0M"
     },
     {
@@ -52,7 +52,7 @@
         "publisher"         : "Digital Talent Scholarship Online Academy",
         "certification"     : "HTML, CSS & Javascript",
         "description"       : "This training program covers HTML, CSS, JavaScript, React JS, and Node JS. I received this training through the Digital Talent Scholarship by the Ministry of Communication and Informatics of the Republic of Indonesia (Kemenkominfo RI). The course provided me with in-depth knowledge and hands-on experience in front-end and back-end web development, equipping me with the skills needed to build dynamic, modern web applications.",
-        "period"            : "11 Mei 2020 - 31 Juli 2020",
+        "period"            : "May 11, 2020 - July 31, 2020",
         "url"               : "https://drive.google.com/file/d/1QOwPi0zjiHzaRCPOL_s9cxNhnbP-QTRJ/view?usp=sharing"
     }
 ]
