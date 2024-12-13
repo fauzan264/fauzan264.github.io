@@ -3,30 +3,30 @@
         "image"     : "",
         "company"   : "ByteDance - GoTo Logistics",
         "position"  : "Tech Support",
-        "period"    : "Maret 2022 - Sekarang"
+        "period"    : "March 2022 - Present"
     },
     {
         "image"     : "",
         "company"   : "PT. Artavac Melayani Indonesia",
         "position"  : "Software Engineer",
-        "period"    : "Agustus 2020 - Oktober 2021"
+        "period"    : "August 2020 - October 2021"
     },
     {
         "image"     : "",
         "company"   : "Freelance",
         "position"  : "Programmer",
-        "period"    : "Juni 2020 - Agustus 2020"
+        "period"    : "June 2020 - August 2020"
     },
     {
         "image"     : "https://media-exp1.licdn.com/dms/image/C510BAQGGDyAQhPqTvg/company-logo_200_200/0?e=2159024400&v=beta&t=1fNEXh5TwtSByCDOQ4OVpY0kkTF6HEb3kOQKy7ULmpc",
         "company"   : "PT. Teknologi Pundi Kreatif",
         "position"  : "Web Developer",
-        "period"    : "September 2019 - Februari 2020"
+        "period"    : "September 2019 - February 2020"
     },
     {
         "image"     : "https://iconape.com/wp-content/png_logo_vector/telkom-akses-logo.png",
         "company"   : "PT. Telkom Akses Bekasi",
-        "position"  : "Magang Staff Admin",
-        "period"    : "Mei 2018 - September 2018"
+        "position"  : "Staff Admin Internship",
+        "period"    : "May 2018 - September 2018"
     }
 ]
