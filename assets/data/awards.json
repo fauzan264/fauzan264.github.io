@@ -3,7 +3,7 @@
         "image"             : "https://buildwithangga.com/themes/front/images/logo_bwa_new.svg",
         "publisher"         : "Build With Angga",
         "certification"     : "Full-Stack Golang Vue NuxtJS: Website Crowdfunding",
-        "description"       : "Belajar membuat portfolio sebuah website Crowdfunding(mengumpulkan dana untuk Startup) dengan menggunakan Nuxt Js untuk front end nya dan Golang sebagai back end nya yang berupa Rest API",
+        "description"       : "This is a portfolio project where I developed a crowdfunding website aimed at raising funds for startups. For the front-end, I used Nuxt.js, a powerful framework for Vue.js, which provided a dynamic and responsive user interface. On the back-end, I implemented Golang to create a RESTful API, ensuring efficient data handling and server performance. This project showcases my ability to work with modern web development technologies, combining a robust back-end with an interactive and user-friendly front-end.",
         "period"            : "On Progress",
         "url"               : ""
     },
@@ -11,7 +11,7 @@
         "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
         "publisher"         : "Udemy",
         "certification"     : "Pemrograman Go-Lang : Pemula sampai Mahir",
-        "description"       : "Belajar pemrograman Go-Lang dari pemula sampai mahir disertai studi kasus.",
+        "description"       : "I learned Go-Lang programming from beginner to advanced level, accompanied by practical case studies. This learning process allowed me to understand the fundamentals of Go-Lang, including its syntax, data structures, and concurrency features, while applying the concepts in real-world scenarios. The hands-on experience through case studies helped me strengthen my problem-solving skills and deepen my understanding of Go-Lang for building efficient and scalable applications.",
         "period"            : "04 Juni 2022",
         "url"               : "https://www.udemy.com/certificate/UC-77689f12-1ea1-45a5-a49c-10d0425b4aae"
     },
@@ -19,7 +19,7 @@
         "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
         "publisher"         : "Udemy",
         "certification"     : "Database MySQL Pemula sampai Mahir",
-        "description"       : "Belajar database MySQL dari pemula sampai mahir disertai studi kasus.",
+        "description"       : "I learned MySQL database from beginner to advanced level, accompanied by practical case studies. This learning journey helped me understand the fundamentals of relational databases, SQL queries, normalization, and advanced topics such as indexing, optimization, and complex joins. Through hands-on case studies, I applied these concepts to real-world scenarios, enhancing my ability to design and manage efficient, scalable databases.",
         "period"            : "12 Oktober 2021",
         "url"               : "https://www.udemy.com/certificate/UC-f00630b1-4bd8-4738-b13b-0e7ebfe8f3c5"
     },
@@ -27,7 +27,7 @@
         "image"             : "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg",
         "publisher"         : "Udemy",
         "certification"     : "Menguasai PostgreSQL",
-        "description"       : "Mampu mengoperasikan PostgreSQL dengan baik dan menerapkan query dengan tepat.",
+        "description"       : "I am proficient in operating PostgreSQL and capable of applying SQL queries effectively. I have a solid understanding of database design, data manipulation, and advanced query techniques, ensuring optimal performance and accuracy in managing and retrieving data. My skills allow me to efficiently handle complex queries and ensure data integrity within PostgreSQL databases.",
         "period"            : "28 April 2021",
         "url"               : "https://www.udemy.com/certificate/UC-bafd8485-60b5-4f62-820b-5338979bc6bd"
     },
@@ -35,7 +35,7 @@
         "image"             : "https://buildwithangga.com/themes/front/images/logo_bwa_new.svg",
         "publisher"         : "Build With Angga",
         "certification"     : "UX Design Gestalt",
-        "description"       : "Gestalt Principle adalah teori psikologi yang menjelaskan tentang manusia secara alami dapat memahami visual objek yang dilihat.",
+        "description"       : "The Gestalt Principle is a psychological theory that explains how humans naturally perceive and organize visual objects. According to this theory, people tend to group elements together and perceive them as a whole, rather than as individual parts. This principle helps to understand how the human brain interprets visual stimuli, creating patterns and structures that make sense out of complex or fragmented information.",
         "period"            : "25 Maret 2021",
         "url"               : "https://buildwithangga.com/talent/fauzan264/uiux-design-gestalt-principle"
     },
@@ -43,7 +43,7 @@
         "image"             : "https://www.dicoding.com/blog/wp-content/uploads/2017/10/dicoding-logo-square.png",
         "publisher"         : "Dicoding",
         "certification"     : "Belajar Prinsip Pemrograman SOLID",
-        "description"       : "Kelas dasar untuk memahami lima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada OOP. Dengan menerapkan prinsip ini, aplikasi menjadi lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. Mempelajari mengenai prinsip SOLID yang memiliki tujuan untuk membuat kode program lebih mudah dimengerti, mudah dikelola, dan mudah dikembangkan. dengan materi kelas didesain untuk diselesaikan dalam waktu 15 jam.",
+        "description"       : "This is an introductory class designed to help you understand the five design principles that serve as guidelines for writing good code in Object-Oriented Programming (OOP). By applying these principles, applications become easier to understand, manage, and expand. The course focuses on the SOLID principles, which aim to make code more readable, maintainable, and scalable. The class content is structured to be completed in 15 hours, providing a comprehensive foundation for improving your coding practices.",
         "period"            : "Oktober 2020",
         "url"               : "https://www.dicoding.com/certificates/GRX5GK0RRX0M"
     },
@@ -51,7 +51,7 @@
         "image"             : "https://aptika.kominfo.go.id/wp-content/uploads/2019/09/digitalent-e1568964668804.jpg",
         "publisher"         : "Digital Talent Scholarship Online Academy",
         "certification"     : "HTML, CSS & Javascript",
-        "description"       : "Pelatihan yang terdiri dari HTML, CSS, JavaScript, React JS, dan Node JS. Pelatihan ini saya dapatkan dari Beasiswa pelatihan Digital Talent Scholarship Kementerian Komunikasi dan Informatika RI.",
+        "description"       : "This training program covers HTML, CSS, JavaScript, React JS, and Node JS. I received this training through the Digital Talent Scholarship by the Ministry of Communication and Informatics of the Republic of Indonesia (Kemenkominfo RI). The course provided me with in-depth knowledge and hands-on experience in front-end and back-end web development, equipping me with the skills needed to build dynamic, modern web applications.",
         "period"            : "11 Mei 2020 - 31 Juli 2020",
         "url"               : "https://drive.google.com/file/d/1QOwPi0zjiHzaRCPOL_s9cxNhnbP-QTRJ/view?usp=sharing"
     }
