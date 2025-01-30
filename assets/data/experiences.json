@@ -1,9 +1,15 @@
 [
     {
         "image"     : "",
+        "company"   : "Freelance",
+        "position"  : "Back End Developer",
+        "period"    : "January 2025 - Present"
+    },
+    {
+        "image"     : "",
         "company"   : "ByteDance - GoTo Logistics",
-        "position"  : "Tech Support",
-        "period"    : "March 2022 - Present"
+        "position"  : "Tech Support Engineer",
+        "period"    : "March 2022 - December 2024"
     },
     {
         "image"     : "",
