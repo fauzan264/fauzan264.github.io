@@ -51,6 +51,6 @@
         "image"         : "assets/images/inventory-web.png",
         "title"         : "Gudang Penyimpanan",
         "description"   : "This is a warehouse management system application that focuses on tracking incoming and outgoing goods. The application was developed by me in collaboration with my younger sibling. It provides an efficient way to manage inventory, monitor stock levels, and ensure smooth logistics operations. This project highlights our teamwork in building a practical solution for warehouse operations and inventory management.",
-        "url"           : "http://inventory-furniture.infinityfreeapp.com"
+        "url"           : "https://gitlab.com/furniture-warehouse/warehouse-project"
     }
 ]
